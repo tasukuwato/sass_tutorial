@@ -1,0 +1,22 @@
+.main {
+  margin: 20px;
+  text-align: center;
+}
+.main .button {
+  display: inline-block;
+  padding: 8px 24px;
+  color: white;
+  opacity: 0.8;
+  border-radius: 4px;
+  background-color: #1d85a8;
+  cursor: pointer;
+  box-shadow: 0 5px #14566c;
+}
+.main .button:hover {
+  opacity: 1;
+}
+.main .button:active {
+  position: relative;
+  top: 7px;
+  box-shadow: none;
+}/*# sourceMappingURL=style.css.map */
